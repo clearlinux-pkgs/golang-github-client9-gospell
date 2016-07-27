@@ -1,6 +1,6 @@
 Name     : golang-github-client9-gospell
 Version  : 90dfc71015dfebd3a7274f1ad2756c1dbf09e250
-Release  : 1
+Release  : 2
 URL      : https://github.com/client9/gospell/archive/90dfc71015dfebd3a7274f1ad2756c1dbf09e250.tar.gz
 Source0  : https://github.com/client9/gospell/archive/90dfc71015dfebd3a7274f1ad2756c1dbf09e250.tar.gz
 Summary  : No detailed summary available
